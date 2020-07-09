@@ -1,0 +1,16 @@
+{
+"companyName": "MaxGaemes",
+"productName": "Cubé",
+"productVersion": "0.1",
+"dataUrl": "Cubé_v1.0_WebGL.data.unityweb",
+"wasmCodeUrl": "Cubé_v1.0_WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Cubé_v1.0_WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFBE8",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.2f1"
+}
